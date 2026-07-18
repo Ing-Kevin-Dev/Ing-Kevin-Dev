@@ -1,8 +1,8 @@
 # 👋 Hola, soy Kevin Escalona
 
-💻 **Frontend Developer**
+💻 Frontend Developer | React | JavaScript
 
-Soy Ingeniero en Informática apasionado por el desarrollo web y la creación de interfaces modernas utilizando React y JavaScript.
+Ingeniero en Informática especializado en desarrollo Frontend con React. Me enfoco en crear interfaces modernas, responsivas y con una excelente experiencia de usuario.
 
 ## 🚀 Tecnologías
 
