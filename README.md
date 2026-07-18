@@ -7,7 +7,7 @@ Ingeniero en Informática especializado en desarrollo Frontend con React. Me enf
 ## 🚀 Tecnologías
 
 * JavaScript
-* React
+* ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 * HTML5
 * CSS3
 * Git
